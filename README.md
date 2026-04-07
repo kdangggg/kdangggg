@@ -1,11 +1,8 @@
 ### WELCOME TO MY PAGE 👋👋👋
-I'm Khoa 👋  
+I'm Khoa Dang 👋  
 I'm a junior Computer Science student at Ho Chi Minh City University of Technology, majoring in Artificial Intelligence. I'm passionate about building Machine Learning systems, with a focus on Computer Vision.
 ## 📫 How to reach me: 
-
-
-
-![Khoa Dang's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kdangggg&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+**Gmail**: vtdkhoa05@gmail.com
 
 <a href="https://github.com/kdangggg/Brain-Tumor-YOLO-TAF/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
